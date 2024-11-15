@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 width: 10%;
                 height: 0px;
                 display: none;
-                transition: height 0.5s;
+                transition: height 0.5s ease-out;
                 flex-flow: column nowrap;
                 background-color: white;
                 color: gray;
