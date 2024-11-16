@@ -84,7 +84,7 @@ document.addEventListener('DOMContentLoaded', function() {
         document.getElementById('page').innerHTML = `
             <div class="about-me-content">
                 <h1>About Me</h1>
-                <p>Hi! I'm ????? ???????, a </p>
+                <p>Hi! I'm Martin Garment a </p>
             </div>
         `;
     });
