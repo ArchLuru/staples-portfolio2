@@ -84,7 +84,7 @@ document.addEventListener('DOMContentLoaded', function() {
         document.getElementById('page').innerHTML = `
             <div class="about-me-content">
                 <h1>About Me</h1>
-                <p>Hi! I'm Martin Garment a </p>
+                <p>Hi! I'm Martin Garment. My hobbies include: Coding, Games, and Reading. I've been coding for a while but I only started actually learning it in freshmen year. I've been playing games since I was a kid, my favorite genre is still the same, action. And I started reading in around 3rd grade I think. Got into it and kept reading since then </p>
             </div>
         `;
     });
