@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', function() {
         <img src = "birdie1.png" width = "40%">
         <div class = "text">
             <h1 class = "coverheader">Pattern Drawing</h1>
-            <p>Meow Meow Meow Meow Meow Meow Meow</p>
+            <p>I decided to make it an eagle flying in the sky with other eagles, because I wanted the background to be huge, and for the animal in front to be part of it.</p>
         </div>
     </div>
         `;
