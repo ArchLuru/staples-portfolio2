@@ -52,6 +52,7 @@ h2 {
     flex-flow: column nowrap;
     align-items: center;
     font-size: 1vw;
+    width: 25vw;
 }
 
 #page {
