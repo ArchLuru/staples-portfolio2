@@ -33,7 +33,6 @@ document.addEventListener('DOMContentLoaded', function() {
                 background-color: white;
                 color: gray;
                 box-shadow: 0px 0px 5px 2px silver;
-                z-index: 1000;
                 font-size: 1vw;
                 font-family: fantasy;
             `;
@@ -59,7 +58,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 `;
             })
         }
-    window.addEventListener('scroll', function() {
+    document.addEventListener('scroll', function() {
         const header = document.getElementById('header'); 
         if(window.scrollY > this.window.innerHeight*0.04) {
             header.style.backgroundColor = 'white'; 
