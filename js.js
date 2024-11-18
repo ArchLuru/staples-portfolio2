@@ -58,7 +58,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 `;
             })
         }
-    document.addEventListener('scroll', function() {
+    window.addEventListener('scroll', function() {
         const header = document.getElementById('header'); 
         if(window.scrollY > this.window.innerHeight*0.04) {
             header.style.backgroundColor = 'white'; 
